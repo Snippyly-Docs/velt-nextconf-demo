@@ -9,7 +9,6 @@ export default function App() {
       <VeltHuddle/>
       <div className="flex w-screen justify-center">
         <YourDocument />
-        <YourDocument />
       </div>
     </VeltProvider>
   );
